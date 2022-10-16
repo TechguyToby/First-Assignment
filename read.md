@@ -78,7 +78,18 @@ The commit syntax is:- git commit -m "a message explaining what the commit is ab
 [GitHub Desktop](https://docs.github.com/en/desktop) is a software programme version of GitHub that can be installed on your device. You can implement most Git commands from GitHub desktop with visual confirmation of all the changes you make.
 [Github CLI](https://docs.github.com/en/get-started/using-github/github-cli) is an open-source tool that allows developers to access GitHub using your computer's command line interface. You do not need to install GitHub or any software to use GitHub CLI. All you need is already on your computer.
 
+| GitHub CLI |GitHub Desktop|
+|:------------:|:----------:|
+|it is good|It is not good|
+|
+
+
+
+
+
+
+
 ## Conclusion
-As a newbie in program development learning how to use GitHub is an essential part of your career in program development. GitHub is basic knowledge and it is necessary to help you connect with other developers, learn from other developers, and possibly get a job opportunity.
+As a newbie in program development, learning how to use GitHub is an essential part of your career in program development. GitHub is basic knowledge and it is necessary to help you connect with other developers, learn from other developers, and possibly get a job opportunity.
 
 I hope this guide was helpful to get you started on what GitHub is and how it works.
