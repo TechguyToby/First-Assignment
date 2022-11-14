@@ -79,7 +79,8 @@ To make a pull request means seeking permission from the owner of the repository
 ## How to do a commit
 [Commit](https://github.com/git-guides/git-commit) is a git command used to save changes made to a local repository before the repository is pushed to the GitHub platform. You have to be specific with the changes you want to commit and also add a message about what the change is about when you implement the commit command line.
 
-The commit syntax is **git commit -m [a message explaining what the commit is about]**
+The commit syntax is **git commit -m [a message explaining what the commit is about]** as shown below
+![commit](images/commit.jpg)
 
 
 
