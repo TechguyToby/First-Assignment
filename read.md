@@ -22,7 +22,11 @@ Like every organization with foresight,  [Github](https://anvilproject.org/guide
 I had the perception that Github was a social media platform for programmers and tech-inclined individuals alike. The truth is, Github is all of the aforementioned and more. It is an online, cloud-based software development platform used by tech professionals to collaborate on software projects, store software data, and keep track of changes made in real time. GitHub can be used as a social site by developers to connect, as well as a free platform for developers to showcase their skills and talents.
 
 ## Why GitHub?
-The reasons GitHub users choose it are many, but the major reasons are: its large and growing user base gives developers insights and exposure; it allows real-time change effects; it connects developers of varying backgrounds beyond borders, and it enhances collaboration.
+The reasons GitHub users choose it are many, but the major reasons are: 
+* its large and growing user base gives developers insights and exposure 
+* it allows real-time change effects
+* it connects developers of varying backgrounds beyond borders
+*  it enhances collaboration
 
 ## Git vs GitHub
 
@@ -51,7 +55,7 @@ Follow these steps to clone a repository from GitHub to your Windows computer:
 7. On the top left corner of your screen, click on the **File** menu and select **Open Folder** from the list of options. ![open folder](images/open%20folder.jpeg)
 8. Select the folder you would like to make the clone into on your local computer. As seen in the image above.
 9. After you have opened a folder, click on the **View** menu as shown below and select **Terminal** among the options to open a new terminal. ![open terminal](images/open%20terminal.jpeg)
-10. In the Terminal pane, select **Gitbash** by clicking the **+** sign on the right. ![select gitbash](images/clone6.jpg)
+10. In the Terminal pane, select **Gitbash** by clicking the **+** sign on the right. ![select gitbash](images/terminal.jpeg)
 11. On the left, type **git clone** (paste the SSH link you copied in step 5), and press enter.
 12. Completing the action above will automatically clone the contents of the repository **First Assignment** onto your local computer.
 
